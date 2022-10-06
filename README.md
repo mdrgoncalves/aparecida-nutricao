@@ -18,15 +18,19 @@ Aparecida Nutrição - Página para estudo de Javascript.
 **ESTRUTURAS DE DADOS**
   -   Arrays
   -   Objetos
+
 **VALIDAÇÃO DE FORMULÁRIO**
   -   For
   -   forEach
+
 **REMOÇÃO DE ITENS COM EVENTOS**
   -   Delegação de Eventos
+
 **FILTRO DE TABELA**
   -   Regex
   -   Substring
   -   .includes
+
 **AJAX**
   -   Requisição com XMLHttpRequest()
   -   Tratamento da requisição com JSON.parse
